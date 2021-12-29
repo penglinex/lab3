@@ -1,0 +1,11 @@
+air: 1500 8 1000 3000 "Russia Air" Airbus
+air: 2000 10 888 4000 "Europe Air" Boeing
+air: 1300 6 666 3333 "USA Air" Aircraft
+train: 10 150 1000 "Europe Train" TGV
+train: 20 190 1500 "Russia Train" Talgo
+train: 13 170 1300 "USA Train" Maglev
+car: Sedan 240 300 "Russia Car" Mercedes
+car: Crossover 180 600 "USA Car" Ssang
+car: Jeep 200 150 "Europe Car" Nissan
+air: 9 633 3444 "China Air" Chiner
+train: 16 120 300 "Russia Train"
